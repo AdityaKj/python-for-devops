@@ -1,3 +1,3 @@
-text = "Python is awesome"
+text = "Python is awesome for DevOps"
 words = text.split()
 print("Words:", words)
